@@ -7,7 +7,6 @@ published: true
 
 ## HERE WE ARE GOING TO LEARN ABOUT LINEAR ALGEBRA USING PYTHON
 
-## [Lab 1 eto](https://loreynszxc.github.io/Lab-1-ito/)
 
 
 
