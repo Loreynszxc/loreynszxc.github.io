@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Lab 1 - Getting Acquainted With Python
 
